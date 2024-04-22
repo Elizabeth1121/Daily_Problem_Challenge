@@ -1,0 +1,14 @@
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Palindrome_Check\bin\Debug\net8.0\Palindrome_Check.exe
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Palindrome_Check\bin\Debug\net8.0\Palindrome_Check.deps.json
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Palindrome_Check\bin\Debug\net8.0\Palindrome_Check.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Palindrome_Check\bin\Debug\net8.0\Palindrome_Check.dll
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Palindrome_Check\bin\Debug\net8.0\Palindrome_Check.pdb
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Palindrome_Check\obj\Debug\net8.0\Palindrome_Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Palindrome_Check\obj\Debug\net8.0\Palindrome_Check.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Palindrome_Check\obj\Debug\net8.0\Palindrome_Check.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Palindrome_Check\obj\Debug\net8.0\Palindrome_Check.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Palindrome_Check\obj\Debug\net8.0\Palindrome_Check.dll
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Palindrome_Check\obj\Debug\net8.0\refint\Palindrome_Check.dll
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Palindrome_Check\obj\Debug\net8.0\Palindrome_Check.pdb
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Palindrome_Check\obj\Debug\net8.0\Palindrome_Check.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Palindrome_Check\obj\Debug\net8.0\ref\Palindrome_Check.dll
