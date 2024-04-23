@@ -1,0 +1,15 @@
+C:\Users\itsyb\OneDrive\Documents\Daily Challenge Problem\FizzBuzz_Daily_Challenge\bin\Debug\net7.0\FizzBuzz_Daily_Challenge.exe
+C:\Users\itsyb\OneDrive\Documents\Daily Challenge Problem\FizzBuzz_Daily_Challenge\bin\Debug\net7.0\FizzBuzz_Daily_Challenge.deps.json
+C:\Users\itsyb\OneDrive\Documents\Daily Challenge Problem\FizzBuzz_Daily_Challenge\bin\Debug\net7.0\FizzBuzz_Daily_Challenge.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\Daily Challenge Problem\FizzBuzz_Daily_Challenge\bin\Debug\net7.0\FizzBuzz_Daily_Challenge.dll
+C:\Users\itsyb\OneDrive\Documents\Daily Challenge Problem\FizzBuzz_Daily_Challenge\bin\Debug\net7.0\FizzBuzz_Daily_Challenge.pdb
+C:\Users\itsyb\OneDrive\Documents\Daily Challenge Problem\FizzBuzz_Daily_Challenge\obj\Debug\net7.0\FizzBuzz_Daily_Challenge.csproj.AssemblyReference.cache
+C:\Users\itsyb\OneDrive\Documents\Daily Challenge Problem\FizzBuzz_Daily_Challenge\obj\Debug\net7.0\FizzBuzz_Daily_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\Daily Challenge Problem\FizzBuzz_Daily_Challenge\obj\Debug\net7.0\FizzBuzz_Daily_Challenge.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Daily Challenge Problem\FizzBuzz_Daily_Challenge\obj\Debug\net7.0\FizzBuzz_Daily_Challenge.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\Daily Challenge Problem\FizzBuzz_Daily_Challenge\obj\Debug\net7.0\FizzBuzz_Daily_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Daily Challenge Problem\FizzBuzz_Daily_Challenge\obj\Debug\net7.0\FizzBuzz_Daily_Challenge.dll
+C:\Users\itsyb\OneDrive\Documents\Daily Challenge Problem\FizzBuzz_Daily_Challenge\obj\Debug\net7.0\refint\FizzBuzz_Daily_Challenge.dll
+C:\Users\itsyb\OneDrive\Documents\Daily Challenge Problem\FizzBuzz_Daily_Challenge\obj\Debug\net7.0\FizzBuzz_Daily_Challenge.pdb
+C:\Users\itsyb\OneDrive\Documents\Daily Challenge Problem\FizzBuzz_Daily_Challenge\obj\Debug\net7.0\FizzBuzz_Daily_Challenge.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\Daily Challenge Problem\FizzBuzz_Daily_Challenge\obj\Debug\net7.0\ref\FizzBuzz_Daily_Challenge.dll
