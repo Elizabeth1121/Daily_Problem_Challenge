@@ -1,0 +1,14 @@
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Prime_Number_Check\bin\Debug\net8.0\Prime_Number_Check.exe
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Prime_Number_Check\bin\Debug\net8.0\Prime_Number_Check.deps.json
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Prime_Number_Check\bin\Debug\net8.0\Prime_Number_Check.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Prime_Number_Check\bin\Debug\net8.0\Prime_Number_Check.dll
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Prime_Number_Check\bin\Debug\net8.0\Prime_Number_Check.pdb
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Prime_Number_Check\obj\Debug\net8.0\Prime_Number_Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Prime_Number_Check\obj\Debug\net8.0\Prime_Number_Check.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Prime_Number_Check\obj\Debug\net8.0\Prime_Number_Check.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Prime_Number_Check\obj\Debug\net8.0\Prime_Number_Check.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Prime_Number_Check\obj\Debug\net8.0\Prime_Number_Check.dll
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Prime_Number_Check\obj\Debug\net8.0\refint\Prime_Number_Check.dll
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Prime_Number_Check\obj\Debug\net8.0\Prime_Number_Check.pdb
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Prime_Number_Check\obj\Debug\net8.0\Prime_Number_Check.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Prime_Number_Check\obj\Debug\net8.0\ref\Prime_Number_Check.dll
