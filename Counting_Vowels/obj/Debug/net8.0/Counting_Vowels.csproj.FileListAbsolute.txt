@@ -1,0 +1,14 @@
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Counting_Vowels\bin\Debug\net8.0\Counting_Vowels.exe
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Counting_Vowels\bin\Debug\net8.0\Counting_Vowels.deps.json
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Counting_Vowels\bin\Debug\net8.0\Counting_Vowels.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Counting_Vowels\bin\Debug\net8.0\Counting_Vowels.dll
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Counting_Vowels\bin\Debug\net8.0\Counting_Vowels.pdb
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Counting_Vowels\obj\Debug\net8.0\Counting_Vowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Counting_Vowels\obj\Debug\net8.0\Counting_Vowels.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Counting_Vowels\obj\Debug\net8.0\Counting_Vowels.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Counting_Vowels\obj\Debug\net8.0\Counting_Vowels.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Counting_Vowels\obj\Debug\net8.0\Counting_Vowels.dll
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Counting_Vowels\obj\Debug\net8.0\refint\Counting_Vowels.dll
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Counting_Vowels\obj\Debug\net8.0\Counting_Vowels.pdb
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Counting_Vowels\obj\Debug\net8.0\Counting_Vowels.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Counting_Vowels\obj\Debug\net8.0\ref\Counting_Vowels.dll

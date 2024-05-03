@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting_Vowels", "Counting_Vowels.csproj", "{B11FC05D-04B5-408A-8000-403B8B41255C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B11FC05D-04B5-408A-8000-403B8B41255C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11FC05D-04B5-408A-8000-403B8B41255C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11FC05D-04B5-408A-8000-403B8B41255C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11FC05D-04B5-408A-8000-403B8B41255C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7966B107-2E4F-4D5E-9FB9-53D3391A570D}
+	EndGlobalSection
+EndGlobal
