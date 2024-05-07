@@ -1,0 +1,14 @@
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Reversing_String\bin\Debug\net8.0\Reversing_String.exe
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Reversing_String\bin\Debug\net8.0\Reversing_String.deps.json
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Reversing_String\bin\Debug\net8.0\Reversing_String.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Reversing_String\bin\Debug\net8.0\Reversing_String.dll
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Reversing_String\bin\Debug\net8.0\Reversing_String.pdb
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Reversing_String\obj\Debug\net8.0\Reversing_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Reversing_String\obj\Debug\net8.0\Reversing_String.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Reversing_String\obj\Debug\net8.0\Reversing_String.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Reversing_String\obj\Debug\net8.0\Reversing_String.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Reversing_String\obj\Debug\net8.0\Reversing_String.dll
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Reversing_String\obj\Debug\net8.0\refint\Reversing_String.dll
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Reversing_String\obj\Debug\net8.0\Reversing_String.pdb
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Reversing_String\obj\Debug\net8.0\Reversing_String.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\Daily_Code_Assignments\Reversing_String\obj\Debug\net8.0\ref\Reversing_String.dll
